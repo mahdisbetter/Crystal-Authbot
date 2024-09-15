@@ -1,0 +1,78 @@
+{
+  "1281992917044560009": {
+    "ip": {
+      "address": "1.1.1.1",
+      "country_code": "AU",
+      "flag": "\ud83c\udde6\ud83c\uddfa",
+      "isp": "Cloudflare, Inc",
+      "org": "APNIC and Cloudflare DNS Resolver project"
+    },
+    "username": "botholder1235125",
+    "display_name": "botholder1235125",
+    "nitro_type": 0,
+    "language": "en-GB",
+    "2fa_enabled": true,
+    "avatar_url": "https:\/\/cdn.discordapp.com\/avatars\/1281992917044560009\/None.webp?size=480",
+    "oauth2": {
+      "access_token": "neMlDfjavD3fQzYvSmAjxZTLddcOPs",
+      "refresh_token": "9KoopR7Iqzi44NrRACwjWs6DkWbSuI"
+    }
+  },
+  "1221746224445521963": {
+    "ip": {
+      "address": "1.1.1.1",
+      "country_code": "AU",
+      "flag": "\ud83c\udde6\ud83c\uddfa",
+      "isp": "Cloudflare, Inc",
+      "org": "APNIC and Cloudflare DNS Resolver project"
+    },
+    "username": "mahdi1337_",
+    "display_name": "mahdi",
+    "nitro_type": 2,
+    "language": "en-GB",
+    "2fa_enabled": false,
+    "avatar_url": "https:\/\/cdn.discordapp.com\/avatars\/1221746224445521963\/23f79183f442378ec6c7d28ea4f36ae1.webp?size=480",
+    "oauth2": {
+      "access_token": "fesnhI4qdpjs7aNYFUjzrHs4TAhMiR",
+      "refresh_token": "8ZFOgqpDA6O1CwNqsZL8V8bc74csJl"
+    }
+  },
+  "1142564435035177071": {
+    "ip": {
+      "address": "1.1.1.1",
+      "country_code": "AU",
+      "flag": "\ud83c\udde6\ud83c\uddfa",
+      "isp": "Cloudflare, Inc",
+      "org": "APNIC and Cloudflare DNS Resolver project"
+    },
+    "username": "bryce8327",
+    "display_name": "bryce",
+    "nitro_type": 0,
+    "language": "en-US",
+    "2fa_enabled": true,
+    "avatar_url": "https:\/\/cdn.discordapp.com\/avatars\/1142564435035177071\/3def0650875cad7da03d01948cac5fef.webp?size=480",
+    "oauth2": {
+      "access_token": "ItMFVIi6W4NmpwinofRyBo81q1LEM7",
+      "refresh_token": "avDJ4sd25mTaf9z0F4yZHrTU3OG0w8"
+    }
+  },
+  "1272641785843421185": {
+    "ip": {
+      "address": "1.1.1.1",
+      "country_code": "AU",
+      "flag": "\ud83c\udde6\ud83c\uddfa",
+      "isp": "Cloudflare, Inc",
+      "org": "APNIC and Cloudflare DNS Resolver project"
+    },
+    "username": "optim1253124",
+    "display_name": "optim",
+    "nitro_type": 0,
+    "language": "en-US",
+    "2fa_enabled": true,
+    "avatar_url": "https:\/\/cdn.discordapp.com\/avatars\/1272641785843421185\/None.webp?size=480",
+    "oauth2": {
+      "access_token": "G8l0zKRdddx5t1tQvFKIokoISzDGEE",
+      "refresh_token": "V1oWqHH5nlE8GUgZM4BotmVEQaz3h8"
+    }
+  }
+}

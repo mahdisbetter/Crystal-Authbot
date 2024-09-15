@@ -1,0 +1,13 @@
+{
+  "bot_token": "MTI4MTk5NTkyODEwNTkxMDQ4Mg....",
+  "client_secret": "69cGXk9Y3Cbc0G5Y....",
+  "client_id": "1281995.....",
+  "redirect_uri": "https://verify.mahdi133...",
+  "logger_webhook_url": null,
+  "post_auth_redirect": null,
+  "verification": {
+    "guild_id": null,
+    "verified_role_id": null
+  },
+  "whitelist": [12345, 23456, 34567]
+}
